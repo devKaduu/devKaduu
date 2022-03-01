@@ -9,7 +9,7 @@ Student of information systems at <a href="www.fiap.com.br">FIAP</a>
 ### Other social networks
 [Twitter](https://twitter.com/kadsz_) <br>
 [Instagram](https://www.instagram.com/kadu_sz/) <br>
-[LinkedIn](linkedin.com/in/carlos-eduardo-sousa-81500a173) <br>
+[LinkedIn](https://linkedin.com/in/carlos-eduardo-sousa-81500a173) <br>
 
 <!--
 **Kadsz/Kadsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
