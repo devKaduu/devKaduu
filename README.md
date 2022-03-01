@@ -1,12 +1,16 @@
 
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width= "30px"/></h1>
+### Hey, I'm Carlos Eduardo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width= "30px"/>
 
-Meu nome é Carlos Eduardo!
+Junior Programmer at <a href="www.fiap.com.br">FIAP</a><br/>
+Student of information systems at <a href="www.fiap.com.br">FIAP</a>
 
-<p>Sou Programador Júnior, trabalho com desenvolvimento Front-End desde 2021. 💻</p>
 
-- Atualmente estou trabalhando na <a href="">FIAP<a/> 
+### Other social networks
+[Twitter](https://twitter.com/kadsz_) <br>
+[Instagram](https://www.instagram.com/kadu_sz/) <br>
+[LinkedIn](linkedin.com/in/carlos-eduardo-sousa-81500a173) <br>
+
 <!--
 **Kadsz/Kadsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
