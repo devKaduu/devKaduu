@@ -1,6 +1,3 @@
-
-<image align="right"  src="https://raw.githubusercontent.com/gist/Kadsz/1b98a4c7e0e2bb4cf089d18365e2fbfc/raw/1f24c561fc1d678ef1150d7233a322a25dbe6bc4/image.svg">
-  
 ### Hey, I'm Carlos Eduardo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width= "30px"/>
 
 Junior Programmer at <a href="www.fiap.com.br">FIAP</a><br/>
