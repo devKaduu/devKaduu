@@ -1,4 +1,4 @@
-### Hey, I'm Carlos Eduardo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width= "30px"/>
+### Hey, I'm Carlos Eduardo! 
 
 Junior Programmer at <a href="www.fiap.com.br">FIAP</a><br/>
 Student of information systems at <a href="www.fiap.com.br">FIAP</a>
