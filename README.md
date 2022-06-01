@@ -1,7 +1,7 @@
 ### Hey, I'm Carlos Eduardo! 
 
-Junior Programmer at <a href="www.fiap.com.br">FIAP</a><br/>
-Student of information systems at <a href="www.fiap.com.br">FIAP</a>
+Junior Programmer at <a href="https://www.fiap.com.br/">FIAP</a><br/>
+Student of information systems at <a href="https://www.fiap.com.br/">FIAP</a>
 
 
 ### Other social networks
