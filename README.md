@@ -5,8 +5,8 @@ Student of information systems at <a href="https://www.fiap.com.br/graduacao/bac
 
 
 ### Other social networks
-[Twitter](https://twitter.com/kadsz_) <br>
-[Instagram](https://www.instagram.com/kadu_sz/) <br>
+<!-- [Twitter](https://twitter.com/kadsz_) <br>
+[Instagram](https://www.instagram.com/kadu_sz/) <br> -->
 [LinkedIn](https://linkedin.com/in/carlos-eduardo-sousa-81500a173) <br>
 
 
