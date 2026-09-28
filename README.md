@@ -1,10 +1,12 @@
 ### Hey, I'm Carlos Eduardo! 
 
-I’m a Mid-Level Front-End Developer at <a href="https://montink.com/">Montink</a>, passionate about building functional interfaces and impactful digital experiences.
-I’m looking for opportunities to apply my development expertise, contribute to innovative solutions, and, above all, actively support the growth of both the company and the team.
+I'm a Software Engineer focused on building modern, scalable, and high-quality digital products across web and mobile.
 
-Ex Programmer / Front-End Developer at <a href="https://www.fiap.com.br/">FIAP</a><br/>
-Information systems graduate from <a href="https://www.fiap.com.br/graduacao/bacharelado/sistemas-de-informacao/">FIAP</a>
+I work primarily with TypeScript, React, Next.js, React Native, Node.js, and Swift, combining strong front-end expertise with full-stack development, product thinking, and software architecture.
+
+I'm also exploring AI engineering, application security, and creative development, always looking for better ways to build useful, performant, and impactful products.
+
+I enjoy turning ideas and complex problems into well-crafted digital experiences from architecture and user experience to implementation and deployment.
 
 
 ### Other social networks
